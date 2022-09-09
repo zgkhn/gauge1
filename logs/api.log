@@ -1,0 +1,15 @@
+10-09-2022 01:25:03.737 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+10-09-2022 01:25:03.740 [Gauge] [INFO] Initializing specs cache with 1 specs
+10-09-2022 01:25:03.740 [Gauge] [DEBUG] Adding specs from C:\Users\gokhan\IdeaProjects\untitled\specs\example.spec
+10-09-2022 01:25:03.740 [Gauge] [INFO] Initializing steps cache with 1 steps
+10-09-2022 01:25:03.740 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63539
+10-09-2022 01:25:03.740 [Gauge] [DEBUG] Watching directory: C:\Users\gokhan\IdeaProjects\untitled\specs
+10-09-2022 01:25:03.741 [Gauge] [DEBUG] Found 1 files
+10-09-2022 01:25:55.731 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+10-09-2022 01:25:55.732 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+10-09-2022 01:25:55.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+10-09-2022 01:25:55.745 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+10-09-2022 01:25:55.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+10-09-2022 01:25:55.745 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+10-09-2022 01:27:03.152 [Gauge] [DEBUG] Spec file added / modified: C:\Users\gokhan\IdeaProjects\untitled\specs\example.spec
+10-09-2022 01:27:03.156 [Gauge] [DEBUG] Spec file added / modified: C:\Users\gokhan\IdeaProjects\untitled\specs\example.spec
